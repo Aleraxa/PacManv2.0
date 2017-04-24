@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="pacman.Menu">
+  <grid id="27dc6" binding="PacManPanel" layout-manager="GridLayoutManager" row-count="5" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="0" vgap="0">
+    <margin top="10" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="39" y="80" width="549" height="486"/>
+    </constraints>
+    <properties>
+      <background color="-16777216"/>
+      <enabled value="false"/>
+    </properties>
+    <border type="empty">
+      <font/>
+      <title-color color="-4017"/>
+      <size top="0" left="40" bottom="0" right="40"/>
+    </border>
+    <children>
+      <component id="56f0f" class="javax.swing.JButton" binding="Button2">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="7" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Wyniki"/>
+        </properties>
+      </component>
+      <component id="d7a9c" class="javax.swing.JButton" binding="Button1">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Gra"/>
+        </properties>
+      </component>
+      <component id="2b040" class="javax.swing.JButton" binding="Button3">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Informacje"/>
+        </properties>
+      </component>
+      <component id="96339" class="javax.swing.JButton" binding="Button4">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Zakończ"/>
+        </properties>
+      </component>
+      <component id="4f346" class="javax.swing.JTextArea" binding="pacManGameTextArea" default-binding="true">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="0" anchor="1" fill="0" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="123"/>
+          </grid>
+        </constraints>
+        <properties>
+          <background color="-16580351"/>
+          <enabled value="true"/>
+          <foreground color="-197862"/>
+          <lineWrap value="false"/>
+          <text value="    PacMan Game" noi18n="true"/>
+          <toolTipText value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

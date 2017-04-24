@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<highscores>
+	<ScoreID id="0">
+		<name>Michał</name>
+		<score>40</score>
+	</ScoreID>
+	<ScoreID id="1">
+		<name>Alicja</name>
+		<score>30</score>
+	</ScoreID>
+	<ScoreID id="2">
+		<name>Michał</name>
+		<score>25</score>
+	</ScoreID>
+	<ScoreID id="3">
+		<name>Michał</name>
+		<score>17</score>
+	</ScoreID>
+	<ScoreID id="4">
+		<name>Alicja</name>
+		<score>15</score>
+	</ScoreID>
+	<ScoreID id="5">
+		<name>Arek</name>
+		<score>10</score>
+	</ScoreID>
+	<ScoreID id="6">
+		<name>Martyna</name>
+		<score>9</score>
+	</ScoreID>
+	<ScoreID id="7">
+		<name>Marcin</name>
+		<score>30</score>
+	</ScoreID>
+</highscores>
